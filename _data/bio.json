@@ -1,25 +1,22 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kenji Sugimoto",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/kenji-ks.png",
+    "email": "kenjiks@hawaii.edu",
+    "phone": "808-824-2846",
+    "website": "https://kenji-ks.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2026.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "kenji-ks", "url": "http://github.com/kenji-ks" },
+      { "network": "linkedin", "username": "Kenji Sugimoto", "url": "https://www.linkedin.com/in/kenji-sugimoto-457647347/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
+    { "name": "Cybersecurity" },
+    { "name": "Software Engineering" },
+    { "name": "Information Technology" },
     { "name": "3D Graphics" }
   ],
   "skills": [
