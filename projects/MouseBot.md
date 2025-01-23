@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: computer-mouse-152249_1280.png
+image: img/computer-mouse-152249_1280.png
 title: "MouseBot"
 date: 2022
 published: true
