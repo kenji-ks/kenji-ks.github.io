@@ -7,7 +7,6 @@ date: 2022
 published: true
 labels:
   - Java
-  - Programming
   - Game Development
 summary: "I developed a bot that controls a mouse while it tries to collect as much cheese as it can before running out of stamina."
 ---
