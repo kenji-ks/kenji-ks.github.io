@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: img/istockphoto-177497814-612x612.jpg
+image: img/1000_F_435763852_uCeObF7NSvCg7dGYtZtUbp2soO3HKeC5.jpg
+
 
 title: "Text-Based RPG"
 date: 2022
