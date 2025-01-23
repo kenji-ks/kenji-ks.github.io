@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: [image](https://github.com/user-attachments/assets/b2e7474c-9171-48b6-b06b-a68b6ad83217)
+image: https://github.com/user-attachments/assets/b2e7474c-9171-48b6-b06b-a68b6ad83217
 title: "MouseBot"
 date: 2022
 published: true
