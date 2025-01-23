@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "kenji-ks", "url": "http://github.com/kenji-ks" },
-      { "network": "linkedin", "username": "Kenji Sugimoto", "url": "https://www.linkedin.com/in/kenji-sugimoto-457647347/" },
+      { "network": "linkedin", "username": "Kenji Sugimoto", "url": "https://www.linkedin.com/in/kenji-sugimoto-457647347/" }
     ]
   },
   "interests": [
