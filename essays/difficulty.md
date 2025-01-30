@@ -1,25 +1,19 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Software Engineering: Expanding My Horizons"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2025-01-29
+published: true
 labels:
-  - Engineering
+  - Software Engineering
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Uncharted Territory
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
+I knew little to nothing about software engineering until fairly recently. All I knew was that apps, web browsers, and games were software applications. I knew nothing about how they were designed or what happens behind the scenes when a software program is being designed. Unlike TypeScript, where I had a decent background thanks to my knowledge of JavaScript, I knew little to nothing about what software engineering is like. However, I enjoy challenging myself and am interested in learning software engineering. Since cybersecurity is my main interest, and because I do not yet know what goes on behind the scenes, learning about software engineering would help me if I find out that I enjoy cybersecurity more than cybersecurity.
 
 ## In the context of programming
 
