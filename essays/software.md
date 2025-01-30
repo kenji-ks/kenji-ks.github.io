@@ -9,40 +9,16 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="..img/pexels-luis-gomes-166706-546819.jpg">
 
 ## Uncharted Territory
 
 I knew little to nothing about software engineering until fairly recently. All I knew was that apps, web browsers, and games were software applications. I knew nothing about how they were designed or what happens behind the scenes when a software program is being designed. Unlike TypeScript, where I had a decent background thanks to my knowledge of JavaScript, I knew little to nothing about what software engineering is like. However, I enjoy challenging myself and am interested in learning software engineering. Since cybersecurity is my main interest, and because I do not yet know what goes on behind the scenes, learning about software engineering would help me if I find out that I enjoy cybersecurity more than cybersecurity.
 
-## In the context of programming
+## Into the Future
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+I hope to improve my understanding of the languages involved in software engineering. I want to leave this class with a much better understanding of TypeScript. I want to be able to apply my knowledge of JavaScript and TypeScript to create software effectively and efficiently. In the future, I would like to understand how to plan for and develop software based on someone's requests. Overall, I want to learn more about software engineering as a job and get tips on developing software.
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+## Developing Experience
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+I want to experience more of what software engineering is like in professional settings. I want to understand how work is divided and how an average workday goes to better understand what I might be getting into. I would also like to develop better programming habits to code and plan projects more efficiently. My only experience with something software engineering-related was code.org, so I want to experience more of the real-world situations that software engineers go through daily. There are many different aspects of software engineering that I want to learn more about, and I hope that I'll be able to say that I understand software engineering entirely sometime in the future.
