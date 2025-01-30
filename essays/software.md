@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="img/software-417880_640.webp">
+<img width="200px" class="rounded float-start pe-4" src="../img/software-417880_640.webp">
 
 ## Uncharted Territory
 
