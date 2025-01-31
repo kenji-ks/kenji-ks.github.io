@@ -25,6 +25,15 @@ Picture this. You're in your third-grade math class and just starting to learn a
 
 <img width="300px" class="rounded float-start pe-4" src="../img/litbulb.png">
 
+
+
+
+
+
+
+
+
+
 Here is a snippet of a good question.
 
 ```
