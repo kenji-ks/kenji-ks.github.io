@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/question.png">
 
 ## What Makes a Question a Good Question?
 
@@ -22,6 +22,8 @@ According to Eric Raymond's essay "How to Ask Questions The Smart Way," there ar
 Picture this. You're in your third-grade math class and just starting to learn about multiplication and division. You get confused about one question on the homework, and there are many questions that you want to ask. You remember the teacher mentioning that there's no such thing as a bad question, so you raise your hand. As you raise it, however, your classmate asks the teacher for help on the same question. As your teacher attempts to help them, you notice your classmate struggling to understand the teacher's explanation. They never attempted to solve the problem in the first place and were just asking for an answer so they wouldn't have to try to solve it themselves. While these types of questions are generally okay in elementary school, in the real world, bad questions do exist, and this is an example of one of them. In this example, your classmate never attempted to try the problem and, as a result, had difficulty understanding the teacher's explanation. It also made it harder for the teacher to pinpoint what part of multiplication they had trouble with. Asking bad questions makes it harder for everyone. 
 
 ## So, What Does a Good Question Look Like?
+
+<img width="300px" class="rounded float-start pe-4" src="../img/litbulb.png">
 
 Here is a snippet of a good question.
 
@@ -75,6 +77,8 @@ My first thought was that sorting brings the data into the cache, but that's sil
 The heading of this question is clear, making it easier for people to answer the question this user asked. The user also demonstrates that they have experimented and tried to understand what was wrong with their logic through coding with C++ and Java. On top of this, the user explains why he is confused by sharing his thoughts on the experiments with viewers. This makes it even easier for people to pinpoint what is wrong with this user's logic. Overall, this is a good question, and the number of replies it got speaks for itself.
 
 ## How About a Bad Question?
+
+<img width="300px" class="rounded float-start pe-4" src="../img/brokebulb.avif">
 
 ```
 I want to change date 3 7 2015 to 3Aug 2015
