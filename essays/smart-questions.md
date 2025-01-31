@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "I Don't Know, Can You? - Good and Bad Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2024-1-30
+date: 2025-1-30
 published: true
 labels:
   - Questions
