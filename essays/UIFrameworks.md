@@ -20,7 +20,7 @@ As someone who had decent experience with HTML and CSS, the first WOD involving 
 
 ## Still Struggling
 
-My first assignment with Bootstrap 5 was easy enough. After completing the Bootstrap 5 Hello World assignment, creating the navbar was pretty simple. While it was a little confusing seeing all the different classes and names for the classes, I immediately understood that this would have been much more difficult using HTML and CSS. It was a massive struggle, though, and getting used to the different components of Bootstrap5 felt just like when I was initially learning HTML and CSS. It took a ton of time and practice until I got a decent understanding of it. It was an extremely difficult and painful learning process, but it was very rewarding overall for what I can do with my new knowledge of Bootstrap 5.
+My first assignment with Bootstrap 5 was easy enough. After completing the Bootstrap 5 Hello World assignment, creating the navbar was pretty simple. While it was a little confusing seeing all the different classes and names for the classes, I immediately understood that this would have been much more difficult using HTML and CSS. It was a massive struggle for later assignments, though, and getting used to the different components of Bootstrap5 felt just like when I was initially learning HTML and CSS. It took a ton of time and practice until I got a decent understanding of it. It was an extremely difficult and painful learning process, but it was very rewarding overall for what I can do with my new knowledge of Bootstrap 5.
 
 
 ## The Good and the Bad
