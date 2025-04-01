@@ -12,6 +12,8 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/flusher.jpg">
 
+## Names of proposers: Kenji Sugimoto, Brandon Kumalaa, Peter Bellinger
+
 ## Problem: 
 
 One problem with an ever expanding campus is a lack of consistency with the quality of buildings. Some buildings are recently built, regularly maintained, and act as productive hubs for students. However, many buildings don’t share the same privileges. Some buildings are old, poorly maintained, and are unwelcoming to most students. This is particularly concerning for our bathrooms. Some buildings have extremely poor bathrooms which can make our students uncomfortable or worse, traumatized. In response to this issue, there must be an application that could guide our students to the quality bathrooms on campus. 
@@ -20,8 +22,6 @@ One problem with an ever expanding campus is a lack of consistency with the qual
 
 With the Flush Finder application, students can provide ratings to different bathroom locations on campus to ensure that the best, most comforting locations are given to the students. 
 This essentially acts like a yelp review page for each building's bathrooms. By logging in with a UH email, students and faculty can write a review and rate each building based on restroom quality. Users will then be able to access the totality of reviews by typing a building in the search bar. For added convenience, a copy of the campus map may be provided on the landing page. 
-
-## Names of proposers: Kenji Sugimoto, Brandon Kumalaa, Peter Bellinger
 
 ## Approach: 
 
