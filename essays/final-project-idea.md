@@ -51,8 +51,8 @@ User goes to landing page, logs in, and inputs what building’s bathrooms they 
 
 ## Beyond the Basics: 
 
-Allow students to rate bathrooms and edit/remove reviews that they have posted.
-Notify students when the bathroom is being cleaned (through notifications or yellow mark)
-Upvote/thumbs up system
-Report system for reviews that violate guidelines
-Notify students that their review has been popular 
+Allow students to rate bathrooms and edit/remove reviews that they have posted. 
+Notify students when the bathroom is being cleaned (through notifications or yellow mark). 
+Upvote/thumbs up system. 
+Report system for reviews that violate guidelines. 
+Notify students that their review has been popular.
