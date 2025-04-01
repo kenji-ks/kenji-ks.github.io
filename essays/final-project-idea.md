@@ -10,9 +10,7 @@ labels:
 ---
 
 
-<img width="300px" class="rounded float-start pe-4" src="../img/flusher.jpg">
-
-## Names of proposers: Kenji Sugimoto, Brandon Kumalaa, Peter Bellinger
+Names of proposers: Kenji Sugimoto, Brandon Kumalaa, Peter Bellinger
 
 ## Problem: 
 
@@ -37,22 +35,33 @@ Non-logged in users will be able to see the building’s overall bathroom rating
 
 ## Mockup Page Ideas: 
 
-Landing
-Login
-Search
-Individual Buildings
-Bathroom Review Page
+Landing Page: Shows map of campus, dropdown box for building options.
+
+Login: Simple login page, username/password.
+
+Search: Provides a search bar for keywords or buildings.
+
+Bathroom Review Page: Displays reviews for specific bathrooms.
+
 
 ## Use Case Ideas:
 
-User goes to landing page, logs in or signs up, gets home page, and sets up their profile. 
-Admin goes to landing page, logs in, gets home page, and can edit site through deleting flagged reviews or creating new bathroom pages based on new buildings.
-User goes to landing page, logs in, and inputs what building’s bathrooms they want to check.
+  -User goes to a landing page, logs in or signs up, gets a home page, and sets up their profile. 
+
+  -Admin goes to a landing page, logs in, gets a home page, and can edit the site by deleting flagged reviews or creating new bathroom pages based on new buildings.
+
+  -User goes to a landing page, logs in, and inputs which building’s bathrooms they want to check.
+
 
 ## Beyond the Basics: 
 
-Allow students to rate bathrooms and edit/remove reviews that they have posted. 
-Notify students when the bathroom is being cleaned (through notifications or yellow mark). 
-Upvote/thumbs up system. 
-Report system for reviews that violate guidelines. 
-Notify students that their review has been popular.
+  -Allow students to rate bathrooms and edit/remove reviews that they have posted. 
+  
+  -Notify students when the bathroom is being cleaned (through notifications or a yellow mark). 
+  
+  -Upvote/thumbs up system. 
+  
+  -Report system for reviews that violate guidelines. 
+  
+  -Notify students that their review has been popular.
+  
