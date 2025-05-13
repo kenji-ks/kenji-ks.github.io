@@ -6,7 +6,7 @@ image: img/istockphoto-1442727551-612x612.jpg
 
 title: "Website Puzzle Game"
 date: 2023
-published: true
+published: false
 labels:
   - HTML
   - CSS
